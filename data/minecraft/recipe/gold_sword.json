@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smithing_transform",
+  "template": "minecraft:gold_ingot",
+  "base": "minecraft:iron_sword",
+  "addition": "minecraft:stick",
+  "result": {
+    "id": "minecraft:golden_sword"
+  }
+}

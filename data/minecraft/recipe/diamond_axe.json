@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smithing_transform",
+  "template": "minecraft:diamond",
+  "base": "minecraft:golden_axe",
+  "addition": "minecraft:stick",
+  "result": {
+    "id": "minecraft:diamond_axe"
+  }
+}

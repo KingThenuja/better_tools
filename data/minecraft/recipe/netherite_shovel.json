@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smithing_transform",
+  "template": "minecraft:netherite_ingot",
+  "base": "minecraft:diamond_shovel",
+  "addition": "minecraft:stick",
+  "result": {
+    "id": "minecraft:netherite_shovel"
+  }
+}
